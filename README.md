@@ -1,6 +1,6 @@
 # Blockchain-Mining
 
-##Blockchain Technology Project Report
+#Blockchain Technology Project Report
 
 ##Introduction
 Blockchain technology is revolutionizing various industries by providing a secure and transparent way to record and verify transactions. In this project, we explore the fundamentals of blockchain technology and implement two popular consensus mechanisms: Proof of Work (PoW) and Proof of Authority (PoA).
