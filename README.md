@@ -40,7 +40,7 @@ Authorities: In a PoA network, trusted authorities or validators are responsible
 #Transaction Verification: Transactions are verified and added to blocks by these authorities.
 
 #No Mining: Unlike PoW, there's no mining involved, making it more energy-efficient.
-
+...
 #PoA in Action
 Think of PoA like a group of experts who sign off on important documents. When a transaction occurs, these experts review it and add it to a ledger. Since they are trusted, there's no need for competitive puzzles.
 
