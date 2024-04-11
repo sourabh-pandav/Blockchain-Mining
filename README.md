@@ -45,4 +45,4 @@ Authorities: In a PoA network, trusted authorities or validators are responsible
 Think of PoA like a group of experts who sign off on important documents. When a transaction occurs, these experts review it and add it to a ledger. Since they are trusted, there's no need for competitive puzzles.
 
 #Conclusion
-Blockchain technology is transforming various sectors, offering security, transparency, and efficiency. Proof of Work and Proof of Authority are just two examples of consensus mechanisms that power different types of blockchains. PoW relies on competitive mining, while
+Blockchain technology is transforming various sectors, offering security, transparency, and efficiency. Proof of Work and Proof of Authority are just two examples of consensus mechanisms that power different types of blockchains. PoW relies on competitive mining.
